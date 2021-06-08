@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/DrugSearch/static/css/main.0acfadef.chunk.css",
-    "main.js": "/DrugSearch/static/js/main.fd110ae4.chunk.js",
-    "main.js.map": "/DrugSearch/static/js/main.fd110ae4.chunk.js.map",
-    "runtime-main.js": "/DrugSearch/static/js/runtime-main.9158b03d.js",
-    "runtime-main.js.map": "/DrugSearch/static/js/runtime-main.9158b03d.js.map",
-    "static/js/2.cf7a4112.chunk.js": "/DrugSearch/static/js/2.cf7a4112.chunk.js",
-    "static/js/2.cf7a4112.chunk.js.map": "/DrugSearch/static/js/2.cf7a4112.chunk.js.map",
-    "static/js/3.04d67800.chunk.js": "/DrugSearch/static/js/3.04d67800.chunk.js",
-    "static/js/3.04d67800.chunk.js.map": "/DrugSearch/static/js/3.04d67800.chunk.js.map",
+    "main.css": "/DrugSearch/static/css/main.d34162e4.chunk.css",
+    "main.js": "/DrugSearch/static/js/main.5d2d261b.chunk.js",
+    "main.js.map": "/DrugSearch/static/js/main.5d2d261b.chunk.js.map",
+    "runtime-main.js": "/DrugSearch/static/js/runtime-main.fb12a71c.js",
+    "runtime-main.js.map": "/DrugSearch/static/js/runtime-main.fb12a71c.js.map",
+    "static/js/2.85253fb1.chunk.js": "/DrugSearch/static/js/2.85253fb1.chunk.js",
+    "static/js/2.85253fb1.chunk.js.map": "/DrugSearch/static/js/2.85253fb1.chunk.js.map",
+    "static/js/3.cb26d05c.chunk.js": "/DrugSearch/static/js/3.cb26d05c.chunk.js",
+    "static/js/3.cb26d05c.chunk.js.map": "/DrugSearch/static/js/3.cb26d05c.chunk.js.map",
     "index.html": "/DrugSearch/index.html",
-    "static/css/main.0acfadef.chunk.css.map": "/DrugSearch/static/css/main.0acfadef.chunk.css.map",
-    "static/js/2.cf7a4112.chunk.js.LICENSE.txt": "/DrugSearch/static/js/2.cf7a4112.chunk.js.LICENSE.txt"
+    "static/css/main.d34162e4.chunk.css.map": "/DrugSearch/static/css/main.d34162e4.chunk.css.map",
+    "static/js/2.85253fb1.chunk.js.LICENSE.txt": "/DrugSearch/static/js/2.85253fb1.chunk.js.LICENSE.txt",
+    "static/media/sayKarenWhite.a7e3b86e.png": "/DrugSearch/static/media/sayKarenWhite.a7e3b86e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9158b03d.js",
-    "static/js/2.cf7a4112.chunk.js",
-    "static/css/main.0acfadef.chunk.css",
-    "static/js/main.fd110ae4.chunk.js"
+    "static/js/runtime-main.fb12a71c.js",
+    "static/js/2.85253fb1.chunk.js",
+    "static/css/main.d34162e4.chunk.css",
+    "static/js/main.5d2d261b.chunk.js"
   ]
 }
