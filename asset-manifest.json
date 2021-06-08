@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drugSearch/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/drugSearch/static/js/main.d421593d.chunk.js",
+    "main.js.map": "/drugSearch/static/js/main.d421593d.chunk.js.map",
+    "runtime-main.js": "/drugSearch/static/js/runtime-main.abdb7362.js",
+    "runtime-main.js.map": "/drugSearch/static/js/runtime-main.abdb7362.js.map",
+    "static/js/2.8cb33416.chunk.js": "/drugSearch/static/js/2.8cb33416.chunk.js",
+    "static/js/2.8cb33416.chunk.js.map": "/drugSearch/static/js/2.8cb33416.chunk.js.map",
+    "static/js/3.6bd9aa72.chunk.js": "/drugSearch/static/js/3.6bd9aa72.chunk.js",
+    "static/js/3.6bd9aa72.chunk.js.map": "/drugSearch/static/js/3.6bd9aa72.chunk.js.map",
+    "index.html": "/drugSearch/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/drugSearch/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8cb33416.chunk.js.LICENSE.txt": "/drugSearch/static/js/2.8cb33416.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abdb7362.js",
+    "static/js/2.8cb33416.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d421593d.chunk.js"
+  ]
+}
