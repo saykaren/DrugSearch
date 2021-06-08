@@ -1,0 +1,22 @@
+@import "./variables.scss";
+
+.main_component {
+  min-height: 85vh;
+}
+
+.disclaimer {
+  font-weight: bold;
+  padding: 10px;
+  // margin: 10px;
+  // display: flex;
+}
+
+.drugDetails {
+  margin: 10px;
+  padding: 10px;
+}
+
+.search .drugInputSearch {
+  margin: 10px;
+  padding: 10px;
+}
