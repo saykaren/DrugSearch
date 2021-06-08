@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/drugSearch/static/css/main.0acfadef.chunk.css",
-    "main.js": "/drugSearch/static/js/main.fd110ae4.chunk.js",
-    "main.js.map": "/drugSearch/static/js/main.fd110ae4.chunk.js.map",
-    "runtime-main.js": "/drugSearch/static/js/runtime-main.e00adb14.js",
-    "runtime-main.js.map": "/drugSearch/static/js/runtime-main.e00adb14.js.map",
-    "static/js/2.cf7a4112.chunk.js": "/drugSearch/static/js/2.cf7a4112.chunk.js",
-    "static/js/2.cf7a4112.chunk.js.map": "/drugSearch/static/js/2.cf7a4112.chunk.js.map",
-    "static/js/3.04d67800.chunk.js": "/drugSearch/static/js/3.04d67800.chunk.js",
-    "static/js/3.04d67800.chunk.js.map": "/drugSearch/static/js/3.04d67800.chunk.js.map",
-    "index.html": "/drugSearch/index.html",
-    "static/css/main.0acfadef.chunk.css.map": "/drugSearch/static/css/main.0acfadef.chunk.css.map",
-    "static/js/2.cf7a4112.chunk.js.LICENSE.txt": "/drugSearch/static/js/2.cf7a4112.chunk.js.LICENSE.txt"
+    "main.css": "/DrugSearch/static/css/main.0acfadef.chunk.css",
+    "main.js": "/DrugSearch/static/js/main.fd110ae4.chunk.js",
+    "main.js.map": "/DrugSearch/static/js/main.fd110ae4.chunk.js.map",
+    "runtime-main.js": "/DrugSearch/static/js/runtime-main.9158b03d.js",
+    "runtime-main.js.map": "/DrugSearch/static/js/runtime-main.9158b03d.js.map",
+    "static/js/2.cf7a4112.chunk.js": "/DrugSearch/static/js/2.cf7a4112.chunk.js",
+    "static/js/2.cf7a4112.chunk.js.map": "/DrugSearch/static/js/2.cf7a4112.chunk.js.map",
+    "static/js/3.04d67800.chunk.js": "/DrugSearch/static/js/3.04d67800.chunk.js",
+    "static/js/3.04d67800.chunk.js.map": "/DrugSearch/static/js/3.04d67800.chunk.js.map",
+    "index.html": "/DrugSearch/index.html",
+    "static/css/main.0acfadef.chunk.css.map": "/DrugSearch/static/css/main.0acfadef.chunk.css.map",
+    "static/js/2.cf7a4112.chunk.js.LICENSE.txt": "/DrugSearch/static/js/2.cf7a4112.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e00adb14.js",
+    "static/js/runtime-main.9158b03d.js",
     "static/js/2.cf7a4112.chunk.js",
     "static/css/main.0acfadef.chunk.css",
     "static/js/main.fd110ae4.chunk.js"
