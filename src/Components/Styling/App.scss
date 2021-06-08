@@ -1,4 +1,10 @@
 @import './variables.scss';
+@import './Footer.scss';
+@import './Main.scss';
+
+#root {
+  background-color: $secondary-color;
+}
 
 .App {
     text-align: center;
