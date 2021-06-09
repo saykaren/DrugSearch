@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/DrugSearch/static/css/main.d34162e4.chunk.css",
-    "main.js": "/DrugSearch/static/js/main.5d2d261b.chunk.js",
-    "main.js.map": "/DrugSearch/static/js/main.5d2d261b.chunk.js.map",
+    "main.css": "/DrugSearch/static/css/main.fd09fcc4.chunk.css",
+    "main.js": "/DrugSearch/static/js/main.d78ab42f.chunk.js",
+    "main.js.map": "/DrugSearch/static/js/main.d78ab42f.chunk.js.map",
     "runtime-main.js": "/DrugSearch/static/js/runtime-main.fb12a71c.js",
     "runtime-main.js.map": "/DrugSearch/static/js/runtime-main.fb12a71c.js.map",
-    "static/js/2.85253fb1.chunk.js": "/DrugSearch/static/js/2.85253fb1.chunk.js",
-    "static/js/2.85253fb1.chunk.js.map": "/DrugSearch/static/js/2.85253fb1.chunk.js.map",
+    "static/js/2.66e18a48.chunk.js": "/DrugSearch/static/js/2.66e18a48.chunk.js",
+    "static/js/2.66e18a48.chunk.js.map": "/DrugSearch/static/js/2.66e18a48.chunk.js.map",
     "static/js/3.cb26d05c.chunk.js": "/DrugSearch/static/js/3.cb26d05c.chunk.js",
     "static/js/3.cb26d05c.chunk.js.map": "/DrugSearch/static/js/3.cb26d05c.chunk.js.map",
     "index.html": "/DrugSearch/index.html",
-    "static/css/main.d34162e4.chunk.css.map": "/DrugSearch/static/css/main.d34162e4.chunk.css.map",
-    "static/js/2.85253fb1.chunk.js.LICENSE.txt": "/DrugSearch/static/js/2.85253fb1.chunk.js.LICENSE.txt",
+    "static/css/main.fd09fcc4.chunk.css.map": "/DrugSearch/static/css/main.fd09fcc4.chunk.css.map",
+    "static/js/2.66e18a48.chunk.js.LICENSE.txt": "/DrugSearch/static/js/2.66e18a48.chunk.js.LICENSE.txt",
     "static/media/sayKarenWhite.a7e3b86e.png": "/DrugSearch/static/media/sayKarenWhite.a7e3b86e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fb12a71c.js",
-    "static/js/2.85253fb1.chunk.js",
-    "static/css/main.d34162e4.chunk.css",
-    "static/js/main.5d2d261b.chunk.js"
+    "static/js/2.66e18a48.chunk.js",
+    "static/css/main.fd09fcc4.chunk.css",
+    "static/js/main.d78ab42f.chunk.js"
   ]
 }
