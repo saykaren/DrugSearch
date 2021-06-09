@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DrugSearch/static/css/main.fd09fcc4.chunk.css",
-    "main.js": "/DrugSearch/static/js/main.d78ab42f.chunk.js",
-    "main.js.map": "/DrugSearch/static/js/main.d78ab42f.chunk.js.map",
+    "main.js": "/DrugSearch/static/js/main.f8260fb2.chunk.js",
+    "main.js.map": "/DrugSearch/static/js/main.f8260fb2.chunk.js.map",
     "runtime-main.js": "/DrugSearch/static/js/runtime-main.fb12a71c.js",
     "runtime-main.js.map": "/DrugSearch/static/js/runtime-main.fb12a71c.js.map",
     "static/js/2.66e18a48.chunk.js": "/DrugSearch/static/js/2.66e18a48.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fb12a71c.js",
     "static/js/2.66e18a48.chunk.js",
     "static/css/main.fd09fcc4.chunk.css",
-    "static/js/main.d78ab42f.chunk.js"
+    "static/js/main.f8260fb2.chunk.js"
   ]
 }
