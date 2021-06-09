@@ -6,7 +6,8 @@ const DrugInstructions = ({ sectionArray, title }) => {
       {sectionArray && sectionArray.map((des, indexDes) => (
         <div key={indexDes}>
           {" "}
-          {title}: {des}
+          <div className="drugSectionTitle">{title}</div>
+          <div>{des}</div>
         </div>
       ))}
     </div>

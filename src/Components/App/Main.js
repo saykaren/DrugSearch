@@ -26,18 +26,22 @@ const Main = () => {
         <>
           {drugData.data.results && (
             <section className="disclaimer">
-              <img src={warning} className="icon" alt="disclaimer" />
-              <a
-                href={drugData.data.meta.terms}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                {drugData.data.meta.disclaimer}{" "}
-              </a>{" "}
-              Last Updated: {drugData.data.meta.last_updated}{" "}
-              <img src={warning} className="icon" alt="disclaimer" />
+              <img src={warning} className="icon floatLeft" alt="disclaimer" />
+              <img src={warning} className="icon floatRight" alt="disclaimer" />
+              <div className="FDAdisclaimer">
+                <a
+                  href={drugData.data.meta.terms}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="disclaimer_a"
+                >
+                  {drugData.data.meta.disclaimer}{" "}
+                </a>{" "}
+                Last Updated: {drugData.data.meta.last_updated}{" "}
+              </div>
             </section>
           )}
+           <div className="drugTitle">Results: {finalSearchTerm}</div>
           <section className="search">
             <input
               type="text"
@@ -50,9 +54,10 @@ const Main = () => {
               SEARCH
             </button>
           </section>
+         
           {drugData.data.results && (
             <section>
-              <h2>Results: {finalSearchTerm}</h2>
+              {/* <div className="drugTitle">Results: {finalSearchTerm}</div> */}
 
               <div>
                 {drugData.data.results.length > 0 &&
