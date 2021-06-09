@@ -41,7 +41,7 @@ const Main = () => {
               </div>
             </section>
           )}
-           <div className="drugTitle">Results: {finalSearchTerm}</div>
+          <div className="drugTitle">Results: {finalSearchTerm}</div>
           <section className="search">
             <input
               type="text"
@@ -54,7 +54,7 @@ const Main = () => {
               SEARCH
             </button>
           </section>
-         
+
           {drugData.data.results && (
             <section>
               {/* <div className="drugTitle">Results: {finalSearchTerm}</div> */}
@@ -94,6 +94,24 @@ const Main = () => {
                         sectionArray={results.warnings_and_cautions}
                         title="Warnings"
                       />
+
+                      <DrugInstructions
+                        sectionArray={results.dosage_forms_and_strengths}
+                        title="Dosage Forms and Strengths"
+                      />
+
+                      <DrugInstructions
+                        sectionArray={results.contraindications}
+                        title="Contraindications"
+                      />
+                      <DrugInstructions
+                        sectionArray={results.adverse_reactions}
+                        title="Adverse Reactions"
+                      />
+                      <DrugInstructions
+                        sectionArray={results.overdosage}
+                        title="Overdosage"
+                      />
                     </span>
                   ))}
               </div>
@@ -102,12 +120,12 @@ const Main = () => {
         </>
       )}
       {drugData.status === "success" && drugData.data.error && (
-        <section className="main_component">
+        <section className="disclaimer">
           <h2>
-            {searchTerm} {drugData.data.error.code && drugData.data.error.code}{" "}
+            {finalSearchTerm} {drugData.data.error.code && drugData.data.error.code}{" "}
           </h2>
           <div>
-            {drugData.data.error.message && drugData.data.error.message}
+            {drugData.data.error.message && drugData.data.error.message} Please search another prescription.
           </div>
         </section>
       )}
