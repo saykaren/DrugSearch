@@ -62,15 +62,15 @@ const Main = () => {
                         sectionArray={
                           results.package_label_principal_display_panel
                         }
-                        title="Description"
+                        title="Package Label"
                       />
                       <DrugInstructions
                         sectionArray={results.dosage_and_administration}
-                        title="Description"
+                        title="Dosage and Administration"
                       />
                       <DrugInstructions
                         sectionArray={results.indications_and_usage}
-                        title="Description"
+                        title="Indications and Usage"
                       />
                       <DrugInstructions
                         sectionArray={results.geriatric_use}
