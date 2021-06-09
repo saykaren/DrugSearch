@@ -8,16 +8,57 @@
 .disclaimer {
   font-weight: bold;
   padding: 10px;
+  background-color: $warning;
+  border-radius: 10px;
+  margin: 10px;
   // margin: 10px;
   // display: flex;
+}
+.disclaimer_a {
+  text-decoration: none;
+  color: $text-dark;
+  margin: 5px;
+
+  // color: $warning;
 }
 
 .drugDetails {
   margin: 10px;
   padding: 10px;
+  background-color: $background-color;
+  color: $text-light;
+  border-radius: 5px;
+
 }
 
-.search .drugInputSearch {
-  margin: 10px;
+#drugInputSearch {
+  margin: 15px;
+  padding: 5px;
+  border-radius: 7px;
+}
+
+.drugTitle {
+  color: $text-dark;
+  font-size: 2em;
+  text-shadow: 2px 2px $text-light;
+  text-align: center;
+}
+
+.floatLeft {
+  float: left;
+  margin: 5px;
+}
+
+.floatRight {
+  float: right;
+  margin: 5px;
+}
+
+.FDAdisclaimer {
   padding: 10px;
+  align-items: center;
+}
+
+.search {
+  text-align: center;
 }
