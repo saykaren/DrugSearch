@@ -1,5 +1,5 @@
 
-[http://saykaren.github.io/DrugSearch](http://saykaren.github.io/DrugSearch)
+[https://drug.saykaren.com/](https://drug.saykaren.com/)
 
 # Getting Started with Create React App
 
